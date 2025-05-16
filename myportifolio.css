@@ -1,0 +1,13 @@
+@import url("https://fonts.googleleapis.com/css?family=VT323");
+.calc{
+	background-color: #ddb37b;
+	width: 580px;
+	font-family: 'VT323';
+	margin-left: 350px;
+}
+.header{
+	background-color: #222;
+	height: 100%;
+	padding: 1em 2em 1em 2em;
+	border: 0.5em outset #555;
+}
